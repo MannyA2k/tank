@@ -4,7 +4,7 @@ polkadot:
     # Ansible part of the binding
     ansible:
         # Git link to fetch the binding
-        src: https://github.com/mixbytes/tank.ansible-polkadot
+        src: https://github.com/MannyA2k/tank.ansible-polkadot
 
         # Optionally - branch/tag/commit to check out
         version: master
